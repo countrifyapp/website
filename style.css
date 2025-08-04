@@ -1,0 +1,79 @@
+   footer {
+      background-color: #f8f9fa !important;
+    }
+
+    footer .list-group-item {
+      background-color: #f8f9fa !important;
+    }
+
+    footer a {
+      text-decoration: none;
+      color: black;
+    }
+
+    .download-badge {
+      width: 140px;
+      height: 42px;
+      object-fit: contain;
+      margin-right: 8px;
+    }
+
+    html {
+        scroll-padding-top: 70px;
+        /* height of navbar */
+    }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #ffffff;
+      color: #212529;
+    }
+
+    .navbar {
+      background-color: #ffffff !important;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    }
+
+    .navbar-brand {
+      font-weight: 600;
+      color: #0d6efd !important;
+    }
+
+    .navbar-nav .nav-link {
+      color: #495057 !important;
+      margin-left: 1rem;
+      transition: color 0.2s ease-in-out;
+    }
+
+    .navbar-nav .nav-link:hover {
+      color: #0d6efd !important;
+    }
+
+    h1,
+    h5 {
+      font-weight: 600;
+      color: #212529;
+    }
+
+    .card {
+      border: none;
+      border-radius: 1rem;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    .card-header {
+      background-color: #f9fafb;
+      font-weight: 600;
+    }
+
+    footer {
+      background-color: #f9fafb;
+      color: #6c757d;
+    }
+
+    footer a {
+      color: #495057;
+    }
+
+    footer a:hover {
+      color: #0d6efd;
+    }
